@@ -2,6 +2,8 @@
 
 This guide will walk you through setting up a system to record your voice in **DCS World** (or any simulator) using **VoiceAttack** and transcribe it using **Whisper**, a powerful speech recognition model. The transcribed text will be copied to your clipboard, allowing you to easily paste it into the **DCS kneeboard** or any other application.
 
+![Kneeboard Whisper](https://raw.githubusercontent.com/BojoteX/KneeboardWhisper/main/kneeboardwhisper.png)
+
 ### Prerequisites:
 - **Python 3.12** (Install from the Microsoft Store)
 - **VoiceAttack** (for controlling the scripts)
