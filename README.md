@@ -5,6 +5,7 @@ This guide will walk you through setting up a system to record your voice in **D
 ### Prerequisites:
 - **Python 3.12** (Install from the Microsoft Store)
 - **VoiceAttack** (for controlling the scripts)
+- You need to assign CTRL+ALT+P to the Kneeboard pasting option in the controls in DCS. Check the images for reference.
 
 ---
 
@@ -91,6 +92,8 @@ To confirm that the scripts are working properly:
    ```
 
 3. Check the output of each script. If there are any errors, they will be displayed in these command lines.
+
+4. Don't forget to ASSSIGN CTRL+ALT+P to the Kneeboard pasting option in the controls. Check the images for reference.
 
 ---
 
