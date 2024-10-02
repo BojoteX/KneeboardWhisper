@@ -97,6 +97,8 @@ To confirm that the scripts are working properly:
 
 4. Don't forget to ASSSIGN CTRL+ALT+P to the Kneeboard pasting option in the controls. Check the images for reference.
 
+![Assignments](https://raw.githubusercontent.com/BojoteX/KneeboardWhisper/main/assignments.png)
+
 ---
 
 By following these steps, you’ll have a fully functioning system to record your voice and transcribe it into text, using VoiceAttack to control the process hands-free during your DCS sessions.
