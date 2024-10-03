@@ -5,7 +5,7 @@ This guide will walk you through setting up a system to record your voice in **D
 ![Kneeboard Whisper](https://raw.githubusercontent.com/BojoteX/KneeboardWhisper/main/kneeboardwhisper.png)
 
 ### Prerequisites:
-- **Python 3.12** (Install from the Microsoft Store)
+- **Python 3.11** (Install from the Microsoft Store)
 - **VoiceAttack** (for controlling the scripts)
 - You need to assign CTRL+ALT+P to the Kneeboard pasting option in the controls in DCS. Check the images for reference.
 
