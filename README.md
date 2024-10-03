@@ -11,15 +11,15 @@ This guide will walk you through setting up a system to record your voice in **D
 
 ---
 
-## Step 1: Install Python 3.12
+## Step 1: Install Python 3.11
 
-1. **Install Python 3.12** from the **Microsoft Store**. You can open a command line and type `python`. If Python isn’t installed, this will usually redirect you to the Microsoft Store page, where you can download it for free.
+1. **Install Python 3.11** from the **Microsoft Store**. You can open a command line and type `python`. If Python isn’t installed, this will usually redirect you to the Microsoft Store page, where you can download it for free.
    
 2. **Verify Installation**: After installing, open a command line and type:
    ```bash
    python --version
    ```
-   It should display `Python 3.12.x`.
+   It should display `Python 3.11.x`.
 
 ---
 
